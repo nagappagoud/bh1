@@ -1,0 +1,6 @@
+{
+  "name": "Milky Way Spiral Visualizer",
+  "description": "An interactive astrophysics tool to visualize galactic spiral arms using logarithmic equations, including a Python code generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
